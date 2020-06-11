@@ -2,6 +2,12 @@
 
 Proof of concept of pull strategy in GCP Pub / Sub
 
+## Technology
+
+- Java 11
+- Springboot
+- GCP PubSub
+
 ## Prerequisites
 
 You must have a GCP account and have the PubSub service API enabled, and you must create a theme and a subscription, as demonstrated in the following guide:
